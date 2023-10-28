@@ -1,0 +1,7 @@
+label: Whole Genome Sequence of a Wild Banana Relative
+source: Wu, W., Yang, YL., He, WM. et al. _Whole genome sequencing of a banana wild relative Musa itinerans provides insights into lineage-specific diversification of the Musa genus._ Sci Rep 6, 31586 (2016). https://doi.org/10.1038/srep31586
+author: Wu, W., Yang, YL., He, WM. et al
+requiredStatement:
+  url: https://www.nature.com/articles/srep31586#Fig1
+hash: 1ba7d6c7
+image_url: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep31586/MediaObjects/41598_2016_Article_BFsrep31586_Fig1_HTML.jpg?as=webp
